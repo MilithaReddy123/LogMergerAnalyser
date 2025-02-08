@@ -1,0 +1,30 @@
+2022-02-24 13:21:58,084 -[F:\logapp\logger\views.py - 145] - INFO     Downloading the current file
+2022-02-24 13:24:09,127 -[F:\logapp\logger\log_merger.py - 16] - INFO     A temporary file to store the merged content is opened in write mode
+2022-02-24 13:24:09,127 -[F:\logapp\logger\log_merger.py - 20] - INFO     First target file is opened in read mode
+2022-02-24 13:24:09,127 -[F:\logapp\logger\log_merger.py - 24] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2022-02-24 13:24:09,127 -[F:\logapp\logger\log_merger.py - 29] - INFO     Closing the first source file stream
+2022-02-24 13:24:09,127 -[F:\logapp\logger\log_merger.py - 33] - INFO     Second source file is opened in read mode
+2022-02-24 13:24:09,127 -[F:\logapp\logger\log_merger.py - 36] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2022-02-24 13:24:09,127 -[F:\logapp\logger\log_merger.py - 40] - INFO     Closing the second source file stream
+2022-02-24 13:24:09,127 -[F:\logapp\logger\log_merger.py - 43] - INFO     Closing the temporary file stream
+2022-02-24 13:24:09,127 -[F:\logapp\logger\log_merger.py - 47] - INFO     Opening the temporary file in read mode
+2022-02-24 13:24:09,127 -[F:\logapp\logger\log_merger.py - 50] - INFO     Converting the entire file into an array, each line will become an element
+2022-02-24 13:24:09,127 -[F:\logapp\logger\log_merger.py - 53] - INFO     Sorting the array based on the date and time 
+2022-02-24 13:24:09,127 -[F:\logapp\logger\log_merger.py - 56] - INFO     Opening the target file
+2022-02-24 13:24:09,127 -[F:\logapp\logger\log_merger.py - 58] - INFO     Iterating over the array and writing it to the target file
+2022-02-24 13:24:09,127 -[F:\logapp\logger\log_merger.py - 64] - INFO     Closing the stream of the target file 
+
+2022-02-24 13:24:09,127 -[F:\logapp\logger\log_merger.py - 16] - INFO     A temporary file to store the merged content is opened in write mode
+2022-02-24 13:24:09,135 -[F:\logapp\logger\log_merger.py - 20] - INFO     First target file is opened in read mode
+2022-02-24 13:24:09,136 -[F:\logapp\logger\log_merger.py - 24] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2022-02-24 13:24:09,136 -[F:\logapp\logger\log_merger.py - 29] - INFO     Closing the first source file stream
+2022-02-24 13:24:09,136 -[F:\logapp\logger\log_merger.py - 33] - INFO     Second source file is opened in read mode
+2022-02-24 13:24:09,137 -[F:\logapp\logger\log_merger.py - 36] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2022-02-24 13:24:09,137 -[F:\logapp\logger\log_merger.py - 40] - INFO     Closing the second source file stream
+2022-02-24 13:24:09,137 -[F:\logapp\logger\log_merger.py - 43] - INFO     Closing the temporary file stream
+2022-02-24 13:24:09,138 -[F:\logapp\logger\log_merger.py - 47] - INFO     Opening the temporary file in read mode
+2022-02-24 13:24:09,138 -[F:\logapp\logger\log_merger.py - 50] - INFO     Converting the entire file into an array, each line will become an element
+2022-02-24 13:24:09,138 -[F:\logapp\logger\log_merger.py - 53] - INFO     Sorting the array based on the date and time 
+2022-02-24 13:24:09,138 -[F:\logapp\logger\log_merger.py - 56] - INFO     Opening the target file
+2022-02-24 13:24:09,139 -[F:\logapp\logger\log_merger.py - 58] - INFO     Iterating over the array and writing it to the target file
+2022-02-24 13:24:09,139 -[F:\logapp\logger\log_merger.py - 64] - INFO     Closing the stream of the target file 

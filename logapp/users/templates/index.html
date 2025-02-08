@@ -1,0 +1,77 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/styles.css' %}"/>
+    <title>Log Analyser</title>
+</head>
+<body>
+    <a href="/"><button>Home</button></a>
+	<a href="/"><button>Logout</button></a>
+    <div><center><h1>Log Analyser!!!</center></h1></div>
+    <div class="top-container">
+        <div class='merge'>
+            <form method="POST" enctype="multipart/form-data" action="/merge/">
+                {% csrf_token %}
+                <input type="file" id="files" name="files" value="Browse" multiple required><br><br>
+                <button type="submit" id="merge-button"> Merge Files</button>
+            </form>
+            <div class='file-details'>
+            {%  if url %}
+                <a href="/download_output/" target="_blank"><button id='download'> Download Merged Files</button></a>
+            {% endif %}
+            </div>
+        </div>
+       
+        <br><br>
+        <a href="/view_support_bundle/"> <button id="button">View Support Bundles</button> </a>
+        <a href="/generate_support_bundle/"> <button id="button">Generate Support Bundle</button> </a>
+    </div>
+    <div class="lower-container">
+        <div class="menu">
+            <div class="info">
+                {% if InfoCount %}
+                    Info : {{InfoCount}} <br>
+                {% endif %}
+                {% if WarningCount %}
+                    Warning : {{WarningCount}}
+                {% endif %}
+            </div>
+            <div class="search-filter">
+                <form style="margin: 2px;" method="GET" action="/search">
+                    <input type="text" name='search_word' required>
+                    <button id="search-button">Search</button>
+                </form>
+            </div>
+            <div class="search-filter">
+                <form style="margin: 2px;" method="GET" action="/filter">
+                    <input type="text" name='filter_word' required>
+                    <button id="filter-button">Filter</button>
+                </form>
+            </div>
+            <div class="upload-log">
+                <form style="margin: 2px;" method="POST" enctype="multipart/form-data" action="/view_log/" >
+                    {% csrf_token %}
+                    <input type="file" name="log_file" required>
+                    <button type="submit" id="upload-button">Upload</button>
+                </form>
+            </div>
+        </div>
+        <div class="content">
+            <div class="list-logs">
+                {%  if log %}
+                <pre> {{ log | safe}} </pre>
+                {% endif %}
+            </div>
+            <div class="description">
+                {%  if notification %}
+                <pre> {{ notification | safe}} </pre>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</body>
+</html>

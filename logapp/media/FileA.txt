@@ -1,0 +1,4 @@
+Computer hardware understands only 1’s and 0’s, so instructions are encoded as binary numbers in a format called machine language. 
+Just as we use letters to encode human language, computers use binary numbers to encode machine language. The ARM architecture 
+represents each instruction as a 32-bit word.Microprocessors are digital systems that read and execute machine language instructions.
+However, humans consider reading machine language to be tedious, so we prefer to represent the instructions in a symbolic format called assembly language.

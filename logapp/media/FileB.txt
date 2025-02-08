@@ -1,0 +1,8 @@
+The computer’s vocabulary is called the instruction set. All programs running on a computer use the same instruction 
+set. Even complex software applications, such as word processing and spreadsheet applications, are eventually compiled 
+into a series of simple instructions such as add, subtract, and branch. Computer instructions indicate both the operation 
+to perform and the operands to use. The operands may come from memory, from registers, or from the instruction itself.
+
+The instruction sets of different architectures are more like different dialects than different languages. Almost all architectures 
+define basic instructions, such as add, subtract, and branch, that operate on memory or registers.
+Once you have learned one instruction set, understanding others is fairly straightforward.

@@ -1,0 +1,573 @@
+2022-02-24 13:20:22,844 -[F:\logapp\logger\views.py - 145] - INFO     Downloading the current file
+2022-02-24 13:24:11,914 -[F:\logapp\logger\views.py - 145] - INFO     Downloading the current file
+2022-02-24 13:28:29,991 -[C:\Users\adull\AppData\Local\Programs\Python\Python38\lib\site-packages\django\utils\autoreload.py - 251] - INFO     F:\logapp\logger\log_merger.py changed, reloading.
+2022-02-24 13:28:40,162 -[C:\Users\adull\AppData\Local\Programs\Python\Python38\lib\site-packages\django\utils\autoreload.py - 251] - INFO     F:\logapp\logger\log_merger.py changed, reloading.
+2022-02-24 13:32:14,483 -[F:\logapp\logger\log_merger.py - 16] - INFO     A temporary file to store the merged content is opened in write mode
+2022-02-24 13:32:14,484 -[F:\logapp\logger\log_merger.py - 20] - INFO     First target file is opened in read mode
+2022-02-24 13:32:14,484 -[F:\logapp\logger\log_merger.py - 24] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2022-02-24 13:32:14,484 -[F:\logapp\logger\log_merger.py - 29] - INFO     Closing the first source file stream
+2022-02-24 13:32:14,484 -[F:\logapp\logger\log_merger.py - 33] - INFO     Second source file is opened in read mode
+2022-02-24 13:32:14,485 -[F:\logapp\logger\log_merger.py - 36] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2022-02-24 13:32:14,485 -[F:\logapp\logger\log_merger.py - 40] - INFO     Closing the second source file stream
+2022-02-24 13:32:14,485 -[F:\logapp\logger\log_merger.py - 43] - INFO     Closing the temporary file stream
+2022-02-24 13:32:14,485 -[F:\logapp\logger\log_merger.py - 47] - INFO     Opening the temporary file in read mode
+2022-02-24 13:32:14,489 -[F:\logapp\logger\log_merger.py - 50] - INFO     Converting the entire file into an array, each line will become an element
+2022-02-24 13:32:14,489 -[F:\logapp\logger\log_merger.py - 53] - INFO     Sorting the array based on the date and time 
+2022-02-24 13:32:14,489 -[F:\logapp\logger\log_merger.py - 56] - INFO     Opening the target file
+2022-02-24 13:32:14,490 -[F:\logapp\logger\log_merger.py - 58] - INFO     Iterating over the array and writing it to the target file
+2022-02-24 13:32:14,490 -[F:\logapp\logger\log_merger.py - 64] - INFO     Closing the stream of the target file 
+
+2022-02-24 13:32:14,495 -[F:\logapp\logger\log_merger.py - 16] - INFO     A temporary file to store the merged content is opened in write mode
+2022-02-24 13:32:14,495 -[F:\logapp\logger\log_merger.py - 20] - INFO     First target file is opened in read mode
+2022-02-24 13:32:14,507 -[F:\logapp\logger\log_merger.py - 24] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2022-02-24 13:32:14,507 -[F:\logapp\logger\log_merger.py - 29] - INFO     Closing the first source file stream
+2022-02-24 13:32:14,507 -[F:\logapp\logger\log_merger.py - 33] - INFO     Second source file is opened in read mode
+2022-02-24 13:32:14,507 -[F:\logapp\logger\log_merger.py - 36] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2022-02-24 13:32:14,507 -[F:\logapp\logger\log_merger.py - 40] - INFO     Closing the second source file stream
+2022-02-24 13:32:14,507 -[F:\logapp\logger\log_merger.py - 43] - INFO     Closing the temporary file stream
+2022-02-24 13:32:14,507 -[F:\logapp\logger\log_merger.py - 47] - INFO     Opening the temporary file in read mode
+2022-02-24 13:32:14,510 -[F:\logapp\logger\log_merger.py - 50] - INFO     Converting the entire file into an array, each line will become an element
+2022-02-24 13:32:14,511 -[F:\logapp\logger\log_merger.py - 53] - INFO     Sorting the array based on the date and time 
+2022-02-24 13:32:14,511 -[F:\logapp\logger\log_merger.py - 56] - INFO     Opening the target file
+2022-02-24 13:32:14,512 -[F:\logapp\logger\log_merger.py - 58] - INFO     Iterating over the array and writing it to the target file
+2022-02-24 13:32:14,512 -[F:\logapp\logger\log_merger.py - 64] - INFO     Closing the stream of the target file 
+
+2022-02-24 13:32:14,515 -[F:\logapp\logger\log_merger.py - 16] - INFO     A temporary file to store the merged content is opened in write mode
+2022-02-24 13:32:14,515 -[F:\logapp\logger\log_merger.py - 20] - INFO     First target file is opened in read mode
+2022-02-24 13:32:14,515 -[F:\logapp\logger\log_merger.py - 24] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2022-02-24 13:32:14,515 -[F:\logapp\logger\log_merger.py - 29] - INFO     Closing the first source file stream
+2022-02-24 13:32:14,515 -[F:\logapp\logger\log_merger.py - 33] - INFO     Second source file is opened in read mode
+2022-02-24 13:32:14,520 -[F:\logapp\logger\log_merger.py - 36] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2022-02-24 13:32:14,520 -[F:\logapp\logger\log_merger.py - 40] - INFO     Closing the second source file stream
+2022-02-24 13:32:14,520 -[F:\logapp\logger\log_merger.py - 43] - INFO     Closing the temporary file stream
+2022-02-24 13:32:14,521 -[F:\logapp\logger\log_merger.py - 47] - INFO     Opening the temporary file in read mode
+2022-02-24 13:32:14,528 -[F:\logapp\logger\log_merger.py - 50] - INFO     Converting the entire file into an array, each line will become an element
+2022-02-24 13:32:14,528 -[F:\logapp\logger\log_merger.py - 53] - INFO     Sorting the array based on the date and time 
+2022-02-24 13:32:14,528 -[F:\logapp\logger\log_merger.py - 56] - INFO     Opening the target file
+2022-02-24 13:32:14,528 -[F:\logapp\logger\log_merger.py - 58] - INFO     Iterating over the array and writing it to the target file
+2022-02-24 13:32:14,528 -[F:\logapp\logger\log_merger.py - 64] - INFO     Closing the stream of the target file 
+
+2022-02-24 13:32:17,632 -[F:\logapp\logger\views.py - 145] - INFO     Downloading the current file
+2022-02-24 13:33:19,297 -[F:\logapp\logger\log_merger.py - 16] - INFO     A temporary file to store the merged content is opened in write mode
+2022-02-24 13:33:19,299 -[F:\logapp\logger\log_merger.py - 20] - INFO     First target file is opened in read mode
+2022-02-24 13:33:19,299 -[F:\logapp\logger\log_merger.py - 24] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2022-02-24 13:33:19,299 -[F:\logapp\logger\log_merger.py - 29] - INFO     Closing the first source file stream
+2022-02-24 13:33:19,299 -[F:\logapp\logger\log_merger.py - 33] - INFO     Second source file is opened in read mode
+2022-02-24 13:33:19,300 -[F:\logapp\logger\log_merger.py - 36] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2022-02-24 13:33:19,300 -[F:\logapp\logger\log_merger.py - 40] - INFO     Closing the second source file stream
+2022-02-24 13:33:19,301 -[F:\logapp\logger\log_merger.py - 43] - INFO     Closing the temporary file stream
+2022-02-24 13:33:19,301 -[F:\logapp\logger\log_merger.py - 47] - INFO     Opening the temporary file in read mode
+2022-02-24 13:33:19,301 -[F:\logapp\logger\log_merger.py - 50] - INFO     Converting the entire file into an array, each line will become an element
+2022-02-24 13:33:19,301 -[F:\logapp\logger\log_merger.py - 53] - INFO     Sorting the array based on the date and time 
+2022-02-24 13:33:19,301 -[F:\logapp\logger\log_merger.py - 56] - INFO     Opening the target file
+2022-02-24 13:33:19,301 -[F:\logapp\logger\log_merger.py - 58] - INFO     Iterating over the array and writing it to the target file
+2022-02-24 13:33:19,301 -[F:\logapp\logger\log_merger.py - 64] - INFO     Closing the stream of the target file 
+
+2022-02-24 13:33:19,310 -[F:\logapp\logger\log_merger.py - 16] - INFO     A temporary file to store the merged content is opened in write mode
+2022-02-24 13:33:19,310 -[F:\logapp\logger\log_merger.py - 20] - INFO     First target file is opened in read mode
+2022-02-24 13:33:19,310 -[F:\logapp\logger\log_merger.py - 24] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2022-02-24 13:33:19,310 -[F:\logapp\logger\log_merger.py - 29] - INFO     Closing the first source file stream
+2022-02-24 13:33:19,310 -[F:\logapp\logger\log_merger.py - 33] - INFO     Second source file is opened in read mode
+2022-02-24 13:33:19,313 -[F:\logapp\logger\log_merger.py - 36] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2022-02-24 13:33:19,313 -[F:\logapp\logger\log_merger.py - 40] - INFO     Closing the second source file stream
+2022-02-24 13:33:19,314 -[F:\logapp\logger\log_merger.py - 43] - INFO     Closing the temporary file stream
+2022-02-24 13:33:19,315 -[F:\logapp\logger\log_merger.py - 47] - INFO     Opening the temporary file in read mode
+2022-02-24 13:33:19,318 -[F:\logapp\logger\log_merger.py - 50] - INFO     Converting the entire file into an array, each line will become an element
+2022-02-24 13:33:19,318 -[F:\logapp\logger\log_merger.py - 53] - INFO     Sorting the array based on the date and time 
+2022-02-24 13:33:19,318 -[F:\logapp\logger\log_merger.py - 56] - INFO     Opening the target file
+2022-02-24 13:33:19,318 -[F:\logapp\logger\log_merger.py - 58] - INFO     Iterating over the array and writing it to the target file
+2022-02-24 13:33:19,318 -[F:\logapp\logger\log_merger.py - 64] - INFO     Closing the stream of the target file 
+
+2022-02-24 13:33:19,318 -[F:\logapp\logger\log_merger.py - 16] - INFO     A temporary file to store the merged content is opened in write mode
+2022-02-24 13:33:19,318 -[F:\logapp\logger\log_merger.py - 20] - INFO     First target file is opened in read mode
+2022-02-24 13:33:19,327 -[F:\logapp\logger\log_merger.py - 24] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2022-02-24 13:33:19,327 -[F:\logapp\logger\log_merger.py - 29] - INFO     Closing the first source file stream
+2022-02-24 13:33:19,328 -[F:\logapp\logger\log_merger.py - 33] - INFO     Second source file is opened in read mode
+2022-02-24 13:33:19,339 -[F:\logapp\logger\log_merger.py - 36] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2022-02-24 13:33:19,339 -[F:\logapp\logger\log_merger.py - 40] - INFO     Closing the second source file stream
+2022-02-24 13:33:19,339 -[F:\logapp\logger\log_merger.py - 43] - INFO     Closing the temporary file stream
+2022-02-24 13:33:19,339 -[F:\logapp\logger\log_merger.py - 47] - INFO     Opening the temporary file in read mode
+2022-02-24 13:33:19,351 -[F:\logapp\logger\log_merger.py - 50] - INFO     Converting the entire file into an array, each line will become an element
+2022-02-24 13:33:19,351 -[F:\logapp\logger\log_merger.py - 53] - INFO     Sorting the array based on the date and time 
+2022-02-24 13:33:19,351 -[F:\logapp\logger\log_merger.py - 56] - INFO     Opening the target file
+2022-02-24 13:33:19,351 -[F:\logapp\logger\log_merger.py - 58] - INFO     Iterating over the array and writing it to the target file
+2022-02-24 13:33:19,351 -[F:\logapp\logger\log_merger.py - 64] - INFO     Closing the stream of the target file 
+
+2022-02-24 13:33:21,159 -[F:\logapp\logger\views.py - 145] - INFO     Downloading the current file
+2022-02-24 13:38:20,913 -[F:\logapp\logger\views.py - 50] - INFO     view the log file
+2022-02-24 13:40:27,378 -[F:\logapp\logger\log_merger.py - 16] - INFO     A temporary file to store the merged content is opened in write mode
+2022-02-24 13:40:27,378 -[F:\logapp\logger\log_merger.py - 20] - INFO     First target file is opened in read mode
+2022-02-24 13:40:27,378 -[F:\logapp\logger\log_merger.py - 24] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2022-02-24 13:40:27,378 -[F:\logapp\logger\log_merger.py - 29] - INFO     Closing the first source file stream
+2022-02-24 13:40:27,378 -[F:\logapp\logger\log_merger.py - 33] - INFO     Second source file is opened in read mode
+2022-02-24 13:40:27,379 -[F:\logapp\logger\log_merger.py - 36] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2022-02-24 13:40:27,380 -[F:\logapp\logger\log_merger.py - 40] - INFO     Closing the second source file stream
+2022-02-24 13:40:27,380 -[F:\logapp\logger\log_merger.py - 43] - INFO     Closing the temporary file stream
+2022-02-24 13:40:27,380 -[F:\logapp\logger\log_merger.py - 47] - INFO     Opening the temporary file in read mode
+2022-02-24 13:40:27,381 -[F:\logapp\logger\log_merger.py - 50] - INFO     Converting the entire file into an array, each line will become an element
+2022-02-24 13:40:27,382 -[F:\logapp\logger\log_merger.py - 53] - INFO     Sorting the array based on the date and time 
+2022-02-24 13:40:27,382 -[F:\logapp\logger\log_merger.py - 56] - INFO     Opening the target file
+2022-02-24 13:40:27,382 -[F:\logapp\logger\log_merger.py - 58] - INFO     Iterating over the array and writing it to the target file
+2022-02-24 13:40:27,382 -[F:\logapp\logger\log_merger.py - 64] - INFO     Closing the stream of the target file 
+
+2022-02-24 13:40:27,384 -[F:\logapp\logger\log_merger.py - 16] - INFO     A temporary file to store the merged content is opened in write mode
+2022-02-24 13:40:27,384 -[F:\logapp\logger\log_merger.py - 20] - INFO     First target file is opened in read mode
+2022-02-24 13:40:27,389 -[F:\logapp\logger\log_merger.py - 24] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2022-02-24 13:40:27,389 -[F:\logapp\logger\log_merger.py - 29] - INFO     Closing the first source file stream
+2022-02-24 13:40:27,389 -[F:\logapp\logger\log_merger.py - 33] - INFO     Second source file is opened in read mode
+2022-02-24 13:40:27,390 -[F:\logapp\logger\log_merger.py - 36] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2022-02-24 13:40:27,390 -[F:\logapp\logger\log_merger.py - 40] - INFO     Closing the second source file stream
+2022-02-24 13:40:27,390 -[F:\logapp\logger\log_merger.py - 43] - INFO     Closing the temporary file stream
+2022-02-24 13:40:27,390 -[F:\logapp\logger\log_merger.py - 47] - INFO     Opening the temporary file in read mode
+2022-02-24 13:40:27,394 -[F:\logapp\logger\log_merger.py - 50] - INFO     Converting the entire file into an array, each line will become an element
+2022-02-24 13:40:27,394 -[F:\logapp\logger\log_merger.py - 53] - INFO     Sorting the array based on the date and time 
+2022-02-24 13:40:27,395 -[F:\logapp\logger\log_merger.py - 56] - INFO     Opening the target file
+2022-02-24 13:40:27,395 -[F:\logapp\logger\log_merger.py - 58] - INFO     Iterating over the array and writing it to the target file
+2022-02-24 13:40:27,395 -[F:\logapp\logger\log_merger.py - 64] - INFO     Closing the stream of the target file 
+
+2022-02-24 13:40:29,533 -[F:\logapp\logger\views.py - 145] - INFO     Downloading the current file
+2022-02-24 13:40:50,086 -[F:\logapp\logger\views.py - 50] - INFO     view the log file
+2022-02-24 13:44:48,317 -[F:\logapp\logger\views.py - 75] - INFO     filter is shown
+2022-02-24 13:45:33,359 -[F:\logapp\logger\views.py - 75] - INFO     filter is shown
+2024-07-09 08:15:41,280 -[C:\Users\adull\AppData\Local\Programs\Python\Python38\lib\site-packages\django\utils\log.py - 224] - WARNING  Not Found: /favicon.ico
+2024-07-09 08:21:40,506 -[F:\logapp\logger\log_merger.py - 16] - INFO     A temporary file to store the merged content is opened in write mode
+2024-07-09 08:21:40,508 -[F:\logapp\logger\log_merger.py - 20] - INFO     First target file is opened in read mode
+2024-07-09 08:21:40,509 -[F:\logapp\logger\log_merger.py - 24] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2024-07-09 08:21:40,509 -[F:\logapp\logger\log_merger.py - 29] - INFO     Closing the first source file stream
+2024-07-09 08:21:40,510 -[F:\logapp\logger\log_merger.py - 33] - INFO     Second source file is opened in read mode
+2024-07-09 08:21:40,577 -[F:\logapp\logger\log_merger.py - 36] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2024-07-09 08:21:40,578 -[F:\logapp\logger\log_merger.py - 40] - INFO     Closing the second source file stream
+2024-07-09 08:21:40,579 -[F:\logapp\logger\log_merger.py - 43] - INFO     Closing the temporary file stream
+2024-07-09 08:21:40,580 -[F:\logapp\logger\log_merger.py - 47] - INFO     Opening the temporary file in read mode
+2024-07-09 08:21:40,586 -[F:\logapp\logger\log_merger.py - 50] - INFO     Converting the entire file into an array, each line will become an element
+2024-07-09 08:21:40,587 -[F:\logapp\logger\log_merger.py - 53] - INFO     Sorting the array based on the date and time 
+2024-07-09 08:21:40,588 -[F:\logapp\logger\log_merger.py - 56] - INFO     Opening the target file
+2024-07-09 08:21:40,589 -[F:\logapp\logger\log_merger.py - 58] - INFO     Iterating over the array and writing it to the target file
+2024-07-09 08:21:40,590 -[F:\logapp\logger\log_merger.py - 64] - INFO     Closing the stream of the target file 
+
+2024-07-09 08:21:40,635 -[F:\logapp\logger\log_merger.py - 16] - INFO     A temporary file to store the merged content is opened in write mode
+2024-07-09 08:21:40,638 -[F:\logapp\logger\log_merger.py - 20] - INFO     First target file is opened in read mode
+2024-07-09 08:21:40,682 -[F:\logapp\logger\log_merger.py - 24] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2024-07-09 08:21:40,683 -[F:\logapp\logger\log_merger.py - 29] - INFO     Closing the first source file stream
+2024-07-09 08:21:40,684 -[F:\logapp\logger\log_merger.py - 33] - INFO     Second source file is opened in read mode
+2024-07-09 08:21:40,721 -[F:\logapp\logger\log_merger.py - 36] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2024-07-09 08:21:40,722 -[F:\logapp\logger\log_merger.py - 40] - INFO     Closing the second source file stream
+2024-07-09 08:21:40,722 -[F:\logapp\logger\log_merger.py - 43] - INFO     Closing the temporary file stream
+2024-07-09 08:21:40,724 -[F:\logapp\logger\log_merger.py - 47] - INFO     Opening the temporary file in read mode
+2024-07-09 08:21:40,758 -[F:\logapp\logger\log_merger.py - 50] - INFO     Converting the entire file into an array, each line will become an element
+2024-07-09 08:21:40,758 -[F:\logapp\logger\log_merger.py - 53] - INFO     Sorting the array based on the date and time 
+2024-07-09 08:21:40,769 -[F:\logapp\logger\log_merger.py - 56] - INFO     Opening the target file
+2024-07-09 08:21:40,772 -[F:\logapp\logger\log_merger.py - 58] - INFO     Iterating over the array and writing it to the target file
+2024-07-09 08:21:40,773 -[F:\logapp\logger\log_merger.py - 64] - INFO     Closing the stream of the target file 
+
+2024-07-09 08:22:11,324 -[F:\logapp\logger\views.py - 145] - INFO     Downloading the current file
+2024-07-09 08:22:52,663 -[F:\logapp\logger\views.py - 50] - INFO     view the log file
+2024-07-10 10:11:35,785 -[C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\log.py - 241] - WARNING  Not Found: /favicon.ico
+2024-07-11 19:43:35,257 -[C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\log.py - 241] - WARNING  Not Found: /favicon.ico
+2024-07-11 19:45:07,292 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 16] - INFO     A temporary file to store the merged content is opened in write mode
+2024-07-11 19:45:07,295 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 20] - INFO     First target file is opened in read mode
+2024-07-11 19:45:07,295 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 24] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2024-07-11 19:45:07,298 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 29] - INFO     Closing the first source file stream
+2024-07-11 19:45:07,299 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 33] - INFO     Second source file is opened in read mode
+2024-07-11 19:45:07,315 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 36] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2024-07-11 19:45:07,454 -[C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\log.py - 241] - ERROR    Internal Server Error: /merge/
+Traceback (most recent call last):
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\views.py", line 38, in index
+    merge(os.path.join('media', file.name))
+  File "C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py", line 37, in merge
+    for lines in source_file:
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\encodings\cp1252.py", line 23, in decode
+    return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x8f in position 86: character maps to <undefined>
+2024-07-11 19:46:43,785 -[C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\log.py - 241] - ERROR    Internal Server Error: /merge/
+Traceback (most recent call last):
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\views.py", line 29, in index
+    shutil.rmtree("media")
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\shutil.py", line 749, in rmtree
+    return _rmtree_unsafe(path, onerror)
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\shutil.py", line 619, in _rmtree_unsafe
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\shutil.py", line 617, in _rmtree_unsafe
+    os.unlink(fullname)
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'media\\FileB.zip'
+2024-07-11 21:46:11,412 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\views.py - 50] - INFO     view the log file
+2024-07-11 21:46:11,451 -[C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\log.py - 241] - ERROR    Internal Server Error: /view_log/
+Traceback (most recent call last):
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\views.py", line 61, in view_log
+    content = chunk.decode("utf-8")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xfc in position 10: invalid start byte
+2024-07-11 21:46:16,958 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 16] - INFO     A temporary file to store the merged content is opened in write mode
+2024-07-11 21:46:16,960 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 20] - INFO     First target file is opened in read mode
+2024-07-11 21:46:16,960 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 24] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2024-07-11 21:46:16,961 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 29] - INFO     Closing the first source file stream
+2024-07-11 21:46:16,961 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 33] - INFO     Second source file is opened in read mode
+2024-07-11 21:46:16,964 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 36] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2024-07-11 21:46:16,995 -[C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\log.py - 241] - ERROR    Internal Server Error: /merge/
+Traceback (most recent call last):
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\views.py", line 38, in index
+    merge(os.path.join('media', file.name))
+  File "C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py", line 37, in merge
+    for lines in source_file:
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\encodings\cp1252.py", line 23, in decode
+    return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x8f in position 86: character maps to <undefined>
+2024-07-11 21:46:32,309 -[C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\log.py - 241] - ERROR    Internal Server Error: /merge/
+Traceback (most recent call last):
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\views.py", line 29, in index
+    shutil.rmtree("media")
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\shutil.py", line 749, in rmtree
+    return _rmtree_unsafe(path, onerror)
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\shutil.py", line 619, in _rmtree_unsafe
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\shutil.py", line 617, in _rmtree_unsafe
+    os.unlink(fullname)
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'media\\FileB.zip'
+2024-07-11 21:46:54,294 -[C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\log.py - 241] - ERROR    Internal Server Error: /merge/
+Traceback (most recent call last):
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\views.py", line 29, in index
+    shutil.rmtree("media")
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\shutil.py", line 749, in rmtree
+    return _rmtree_unsafe(path, onerror)
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\shutil.py", line 619, in _rmtree_unsafe
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\shutil.py", line 617, in _rmtree_unsafe
+    os.unlink(fullname)
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'media\\FileB.zip'
+2024-07-11 21:52:44,834 -[C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\log.py - 241] - ERROR    Internal Server Error: /merge/
+Traceback (most recent call last):
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\views.py", line 29, in index
+    shutil.rmtree("media")
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\shutil.py", line 749, in rmtree
+    return _rmtree_unsafe(path, onerror)
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\shutil.py", line 619, in _rmtree_unsafe
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\shutil.py", line 617, in _rmtree_unsafe
+    os.unlink(fullname)
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'media\\FileB.zip'
+2024-07-15 19:59:20,951 -[C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\log.py - 241] - WARNING  Not Found: /favicon.ico
+2024-07-15 20:01:03,168 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 16] - INFO     A temporary file to store the merged content is opened in write mode
+2024-07-15 20:01:03,170 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 20] - INFO     First target file is opened in read mode
+2024-07-15 20:01:03,170 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 24] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2024-07-15 20:01:03,170 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 29] - INFO     Closing the first source file stream
+2024-07-15 20:01:03,171 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 33] - INFO     Second source file is opened in read mode
+2024-07-15 20:01:03,178 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 36] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2024-07-15 20:01:03,222 -[C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\log.py - 241] - ERROR    Internal Server Error: /merge/
+Traceback (most recent call last):
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\views.py", line 38, in index
+    merge(os.path.join('media', file.name))
+  File "C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py", line 37, in merge
+    for lines in source_file:
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\encodings\cp1252.py", line 23, in decode
+    return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 58: character maps to <undefined>
+2024-07-15 20:23:48,560 -[C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\log.py - 241] - ERROR    Internal Server Error: /merge/
+Traceback (most recent call last):
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\views.py", line 29, in index
+    shutil.rmtree("media")
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\shutil.py", line 749, in rmtree
+    return _rmtree_unsafe(path, onerror)
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\shutil.py", line 619, in _rmtree_unsafe
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\shutil.py", line 617, in _rmtree_unsafe
+    os.unlink(fullname)
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'media\\FileA.zip'
+2024-07-15 20:25:03,912 -[C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\log.py - 241] - ERROR    Internal Server Error: /merge/
+Traceback (most recent call last):
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\views.py", line 29, in index
+    shutil.rmtree("media")
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\shutil.py", line 749, in rmtree
+    return _rmtree_unsafe(path, onerror)
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\shutil.py", line 619, in _rmtree_unsafe
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\shutil.py", line 617, in _rmtree_unsafe
+    os.unlink(fullname)
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'media\\FileA.zip'
+2024-07-15 20:25:46,476 -[C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\log.py - 241] - ERROR    Internal Server Error: /merge/
+Traceback (most recent call last):
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\views.py", line 29, in index
+    shutil.rmtree("media")
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\shutil.py", line 749, in rmtree
+    return _rmtree_unsafe(path, onerror)
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\shutil.py", line 619, in _rmtree_unsafe
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\shutil.py", line 617, in _rmtree_unsafe
+    os.unlink(fullname)
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'media\\FileA.zip'
+2024-07-15 20:33:14,928 -[C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\log.py - 241] - ERROR    Internal Server Error: /merge/
+Traceback (most recent call last):
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\views.py", line 29, in index
+    shutil.rmtree("media")
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\shutil.py", line 749, in rmtree
+    return _rmtree_unsafe(path, onerror)
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\shutil.py", line 619, in _rmtree_unsafe
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\shutil.py", line 617, in _rmtree_unsafe
+    os.unlink(fullname)
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'media\\FileA.zip'
+2024-07-15 20:35:10,785 -[C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\log.py - 241] - ERROR    Internal Server Error: /merge/
+Traceback (most recent call last):
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\views.py", line 29, in index
+    shutil.rmtree("media")
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\shutil.py", line 749, in rmtree
+    return _rmtree_unsafe(path, onerror)
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\shutil.py", line 619, in _rmtree_unsafe
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\shutil.py", line 617, in _rmtree_unsafe
+    os.unlink(fullname)
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'media\\FileA.zip'
+2024-07-15 20:35:54,851 -[C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\log.py - 241] - ERROR    Internal Server Error: /merge/
+Traceback (most recent call last):
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\views.py", line 29, in index
+    shutil.rmtree("media")
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\shutil.py", line 749, in rmtree
+    return _rmtree_unsafe(path, onerror)
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\shutil.py", line 619, in _rmtree_unsafe
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\shutil.py", line 617, in _rmtree_unsafe
+    os.unlink(fullname)
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'media\\FileA.zip'
+2024-07-15 20:38:27,787 -[C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\log.py - 241] - WARNING  Not Found: /favicon.ico
+2024-07-15 20:38:57,593 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 16] - INFO     A temporary file to store the merged content is opened in write mode
+2024-07-15 20:38:57,593 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 20] - INFO     First target file is opened in read mode
+2024-07-15 20:38:57,593 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 24] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2024-07-15 20:38:57,593 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 29] - INFO     Closing the first source file stream
+2024-07-15 20:38:57,593 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 33] - INFO     Second source file is opened in read mode
+2024-07-15 20:38:57,604 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 36] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2024-07-15 20:38:57,604 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 40] - INFO     Closing the second source file stream
+2024-07-15 20:38:57,604 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 43] - INFO     Closing the temporary file stream
+2024-07-15 20:38:57,604 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 47] - INFO     Opening the temporary file in read mode
+2024-07-15 20:38:57,604 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 50] - INFO     Converting the entire file into an array, each line will become an element
+2024-07-15 20:38:57,607 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 53] - INFO     Sorting the array based on the date and time 
+2024-07-15 20:38:57,607 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 56] - INFO     Opening the target file
+2024-07-15 20:38:57,607 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 58] - INFO     Iterating over the array and writing it to the target file
+2024-07-15 20:38:57,607 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 64] - INFO     Closing the stream of the target file 
+
+2024-07-15 20:38:57,611 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 16] - INFO     A temporary file to store the merged content is opened in write mode
+2024-07-15 20:38:57,611 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 20] - INFO     First target file is opened in read mode
+2024-07-15 20:38:57,611 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 24] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2024-07-15 20:38:57,611 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 29] - INFO     Closing the first source file stream
+2024-07-15 20:38:57,611 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 33] - INFO     Second source file is opened in read mode
+2024-07-15 20:38:57,623 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 36] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2024-07-15 20:38:57,624 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 40] - INFO     Closing the second source file stream
+2024-07-15 20:38:57,624 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 43] - INFO     Closing the temporary file stream
+2024-07-15 20:38:57,624 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 47] - INFO     Opening the temporary file in read mode
+2024-07-15 20:38:57,633 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 50] - INFO     Converting the entire file into an array, each line will become an element
+2024-07-15 20:38:57,634 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 53] - INFO     Sorting the array based on the date and time 
+2024-07-15 20:38:57,634 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 56] - INFO     Opening the target file
+2024-07-15 20:38:57,635 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 58] - INFO     Iterating over the array and writing it to the target file
+2024-07-15 20:38:57,635 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 64] - INFO     Closing the stream of the target file 
+
+2024-07-15 20:39:02,805 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\views.py - 145] - INFO     Downloading the current file
+2024-07-15 20:39:23,114 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\views.py - 50] - INFO     view the log file
+2024-07-15 20:41:09,081 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\views.py - 75] - INFO     filter is shown
+2024-07-18 09:20:31,984 -[C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\log.py - 241] - WARNING  Not Found: /favicon.ico
+2024-07-18 09:21:32,436 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 16] - INFO     A temporary file to store the merged content is opened in write mode
+2024-07-18 09:21:32,437 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 20] - INFO     First target file is opened in read mode
+2024-07-18 09:21:32,437 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 24] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2024-07-18 09:21:32,438 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 29] - INFO     Closing the first source file stream
+2024-07-18 09:21:32,438 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 33] - INFO     Second source file is opened in read mode
+2024-07-18 09:21:32,445 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 36] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2024-07-18 09:21:32,446 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 40] - INFO     Closing the second source file stream
+2024-07-18 09:21:32,447 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 43] - INFO     Closing the temporary file stream
+2024-07-18 09:21:32,447 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 47] - INFO     Opening the temporary file in read mode
+2024-07-18 09:21:32,455 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 50] - INFO     Converting the entire file into an array, each line will become an element
+2024-07-18 09:21:32,456 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 53] - INFO     Sorting the array based on the date and time 
+2024-07-18 09:21:32,456 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 56] - INFO     Opening the target file
+2024-07-18 09:21:32,457 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 58] - INFO     Iterating over the array and writing it to the target file
+2024-07-18 09:21:32,457 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 64] - INFO     Closing the stream of the target file 
+
+2024-07-18 09:21:32,462 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 16] - INFO     A temporary file to store the merged content is opened in write mode
+2024-07-18 09:21:32,462 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 20] - INFO     First target file is opened in read mode
+2024-07-18 09:21:32,469 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 24] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2024-07-18 09:21:32,471 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 29] - INFO     Closing the first source file stream
+2024-07-18 09:21:32,471 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 33] - INFO     Second source file is opened in read mode
+2024-07-18 09:21:32,477 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 36] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2024-07-18 09:21:32,478 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 40] - INFO     Closing the second source file stream
+2024-07-18 09:21:32,479 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 43] - INFO     Closing the temporary file stream
+2024-07-18 09:21:32,479 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 47] - INFO     Opening the temporary file in read mode
+2024-07-18 09:21:32,487 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 50] - INFO     Converting the entire file into an array, each line will become an element
+2024-07-18 09:21:32,488 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 53] - INFO     Sorting the array based on the date and time 
+2024-07-18 09:21:32,489 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 56] - INFO     Opening the target file
+2024-07-18 09:21:32,489 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 58] - INFO     Iterating over the array and writing it to the target file
+2024-07-18 09:21:32,490 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 64] - INFO     Closing the stream of the target file 
+
+2024-07-18 09:21:36,866 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\views.py - 145] - INFO     Downloading the current file
+2024-07-18 09:21:56,265 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\views.py - 75] - INFO     filter is shown
+2024-07-18 09:21:56,336 -[C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\log.py - 241] - ERROR    Internal Server Error: /filter/
+Traceback (most recent call last):
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\views.py", line 84, in filter
+    with open("./media/view/view.txt") as f:
+FileNotFoundError: [Errno 2] No such file or directory: './media/view/view.txt'
+2024-07-18 09:22:21,990 -[C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\log.py - 241] - ERROR    Internal Server Error: /search/
+Traceback (most recent call last):
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\views.py", line 107, in search
+    with open("./media/view/view.txt") as f:
+FileNotFoundError: [Errno 2] No such file or directory: './media/view/view.txt'
+2024-07-18 11:41:24,423 -[C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\log.py - 241] - WARNING  Not Found: /favicon.ico
+2024-07-18 11:42:29,618 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 16] - INFO     A temporary file to store the merged content is opened in write mode
+2024-07-18 11:42:29,621 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 20] - INFO     First target file is opened in read mode
+2024-07-18 11:42:29,622 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 24] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2024-07-18 11:42:29,622 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 29] - INFO     Closing the first source file stream
+2024-07-18 11:42:29,623 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 33] - INFO     Second source file is opened in read mode
+2024-07-18 11:42:29,640 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 36] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2024-07-18 11:42:29,642 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 40] - INFO     Closing the second source file stream
+2024-07-18 11:42:29,642 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 43] - INFO     Closing the temporary file stream
+2024-07-18 11:42:29,644 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 47] - INFO     Opening the temporary file in read mode
+2024-07-18 11:42:29,660 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 50] - INFO     Converting the entire file into an array, each line will become an element
+2024-07-18 11:42:29,660 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 53] - INFO     Sorting the array based on the date and time 
+2024-07-18 11:42:29,660 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 56] - INFO     Opening the target file
+2024-07-18 11:42:29,660 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 58] - INFO     Iterating over the array and writing it to the target file
+2024-07-18 11:42:29,660 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 64] - INFO     Closing the stream of the target file 
+
+2024-07-18 11:42:29,667 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 16] - INFO     A temporary file to store the merged content is opened in write mode
+2024-07-18 11:42:29,667 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 20] - INFO     First target file is opened in read mode
+2024-07-18 11:42:29,680 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 24] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2024-07-18 11:42:29,680 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 29] - INFO     Closing the first source file stream
+2024-07-18 11:42:29,680 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 33] - INFO     Second source file is opened in read mode
+2024-07-18 11:42:29,697 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 36] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2024-07-18 11:42:29,699 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 40] - INFO     Closing the second source file stream
+2024-07-18 11:42:29,699 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 43] - INFO     Closing the temporary file stream
+2024-07-18 11:42:29,699 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 47] - INFO     Opening the temporary file in read mode
+2024-07-18 11:42:29,713 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 50] - INFO     Converting the entire file into an array, each line will become an element
+2024-07-18 11:42:29,713 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 53] - INFO     Sorting the array based on the date and time 
+2024-07-18 11:42:29,713 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 56] - INFO     Opening the target file
+2024-07-18 11:42:29,713 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 58] - INFO     Iterating over the array and writing it to the target file
+2024-07-18 11:42:29,716 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 64] - INFO     Closing the stream of the target file 
+
+2024-07-18 11:42:36,330 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\views.py - 145] - INFO     Downloading the current file
+2024-07-18 19:34:32,894 -[C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\log.py - 241] - WARNING  Not Found: /favicon.ico
+2024-07-18 19:35:11,515 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\views.py - 50] - INFO     view the log file
+2024-07-18 19:38:31,173 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 16] - INFO     A temporary file to store the merged content is opened in write mode
+2024-07-18 19:38:31,175 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 20] - INFO     First target file is opened in read mode
+2024-07-18 19:38:31,176 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 24] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2024-07-18 19:38:31,177 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 29] - INFO     Closing the first source file stream
+2024-07-18 19:38:31,178 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 33] - INFO     Second source file is opened in read mode
+2024-07-18 19:38:31,180 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 36] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2024-07-18 19:38:31,181 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 40] - INFO     Closing the second source file stream
+2024-07-18 19:38:31,181 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 43] - INFO     Closing the temporary file stream
+2024-07-18 19:38:31,183 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 47] - INFO     Opening the temporary file in read mode
+2024-07-18 19:38:31,185 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 50] - INFO     Converting the entire file into an array, each line will become an element
+2024-07-18 19:38:31,185 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 53] - INFO     Sorting the array based on the date and time 
+2024-07-18 19:38:31,185 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 56] - INFO     Opening the target file
+2024-07-18 19:38:31,187 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 58] - INFO     Iterating over the array and writing it to the target file
+2024-07-18 19:38:31,187 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 64] - INFO     Closing the stream of the target file 
+
+2024-07-18 19:38:31,209 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 16] - INFO     A temporary file to store the merged content is opened in write mode
+2024-07-18 19:38:31,210 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 20] - INFO     First target file is opened in read mode
+2024-07-18 19:38:31,228 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 24] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2024-07-18 19:38:31,228 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 29] - INFO     Closing the first source file stream
+2024-07-18 19:38:31,228 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 33] - INFO     Second source file is opened in read mode
+2024-07-18 19:38:31,228 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 36] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2024-07-18 19:38:31,232 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 40] - INFO     Closing the second source file stream
+2024-07-18 19:38:31,232 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 43] - INFO     Closing the temporary file stream
+2024-07-18 19:38:31,232 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 47] - INFO     Opening the temporary file in read mode
+2024-07-18 19:38:31,242 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 50] - INFO     Converting the entire file into an array, each line will become an element
+2024-07-18 19:38:31,242 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 53] - INFO     Sorting the array based on the date and time 
+2024-07-18 19:38:31,242 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 56] - INFO     Opening the target file
+2024-07-18 19:38:31,249 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 58] - INFO     Iterating over the array and writing it to the target file
+2024-07-18 19:38:31,250 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 64] - INFO     Closing the stream of the target file 
+
+2024-07-18 19:38:33,939 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\views.py - 145] - INFO     Downloading the current file
+2024-07-18 19:38:54,708 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\views.py - 50] - INFO     view the log file
+2024-07-18 19:45:42,150 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 16] - INFO     A temporary file to store the merged content is opened in write mode
+2024-07-18 19:45:42,150 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 20] - INFO     First target file is opened in read mode
+2024-07-18 19:45:42,150 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 24] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2024-07-18 19:45:42,150 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 29] - INFO     Closing the first source file stream
+2024-07-18 19:45:42,150 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 33] - INFO     Second source file is opened in read mode
+2024-07-18 19:45:42,166 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 36] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2024-07-18 19:45:42,166 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 40] - INFO     Closing the second source file stream
+2024-07-18 19:45:42,166 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 43] - INFO     Closing the temporary file stream
+2024-07-18 19:45:42,166 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 47] - INFO     Opening the temporary file in read mode
+2024-07-18 19:45:42,166 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 50] - INFO     Converting the entire file into an array, each line will become an element
+2024-07-18 19:45:42,166 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 53] - INFO     Sorting the array based on the date and time 
+2024-07-18 19:45:42,174 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 56] - INFO     Opening the target file
+2024-07-18 19:45:42,174 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 58] - INFO     Iterating over the array and writing it to the target file
+2024-07-18 19:45:42,174 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 64] - INFO     Closing the stream of the target file 
+
+2024-07-18 19:45:42,182 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 16] - INFO     A temporary file to store the merged content is opened in write mode
+2024-07-18 19:45:42,182 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 20] - INFO     First target file is opened in read mode
+2024-07-18 19:45:42,201 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 24] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2024-07-18 19:45:42,201 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 29] - INFO     Closing the first source file stream
+2024-07-18 19:45:42,201 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 33] - INFO     Second source file is opened in read mode
+2024-07-18 19:45:42,207 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 36] - INFO     Iterating over each lines in the first source file and writing it to the temporary file
+2024-07-18 19:45:42,208 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 40] - INFO     Closing the second source file stream
+2024-07-18 19:45:42,208 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 43] - INFO     Closing the temporary file stream
+2024-07-18 19:45:42,210 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 47] - INFO     Opening the temporary file in read mode
+2024-07-18 19:45:42,224 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 50] - INFO     Converting the entire file into an array, each line will become an element
+2024-07-18 19:45:42,226 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 53] - INFO     Sorting the array based on the date and time 
+2024-07-18 19:45:42,226 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 56] - INFO     Opening the target file
+2024-07-18 19:45:42,228 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 58] - INFO     Iterating over the array and writing it to the target file
+2024-07-18 19:45:42,228 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\log_merger.py - 64] - INFO     Closing the stream of the target file 
+
+2024-07-18 19:45:44,181 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\views.py - 145] - INFO     Downloading the current file
+2024-07-18 19:45:59,452 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\views.py - 50] - INFO     view the log file
+2024-07-18 22:08:15,412 -[C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\log.py - 241] - WARNING  Not Found: /favicon.ico
+2024-07-18 22:08:54,786 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\views.py - 50] - INFO     view the log file
+2024-07-18 22:11:52,010 -[C:\Users\91868\OneDrive\Desktop\logapp\logapp\logger\views.py - 75] - INFO     filter is shown
+2024-08-29 12:23:58,885 -[C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\log.py - 241] - WARNING  Not Found: /favicon.ico
+2024-08-30 11:38:36,658 -[C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\log.py - 241] - WARNING  Not Found: /favicon.ico
+2024-08-31 09:43:03,208 -[C:\Users\91868\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\log.py - 241] - WARNING  Not Found: /favicon.ico

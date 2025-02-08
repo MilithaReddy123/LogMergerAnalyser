@@ -1,0 +1,2 @@
+2022-02-24 12:34:18,526 -[manage.py - 12] - INFO     A main file
+2022-02-24 12:34:20,285 -[C:\Users\adull\AppData\Local\Programs\Python\Python38\lib\site-packages\django\utils\autoreload.py - 637] - INFO     Watching for file changes with StatReloader

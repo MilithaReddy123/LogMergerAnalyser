@@ -1,0 +1,134 @@
+h1{
+    color: red;
+}
+
+.top-container{
+    height: 190px;
+    border: 1px solid black;
+    padding: 1px;
+    margin: 1px;
+}
+
+.merge{
+    float:left; 
+    width:60%;
+    height:150px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;    
+}
+
+#merge-button{
+    position: relative;
+    float: left;
+}
+
+.file-details{
+    position: relative;
+    float:right;
+    top: 80px;
+    left: 0px;
+    padding: 10px;
+    margin: 3px;  
+}
+
+#files{
+    
+    position:relative;
+    float: left;
+}
+
+#download{
+    position: relative;
+    float: right;
+}
+
+.system-health{
+    float:right;
+    width:25%;
+    height:100px;
+    border: 5px solid black;
+    padding: 50px;
+    margin: 20px;
+}
+
+#health-button{
+    float: right;
+    width: 35%;
+    height: 50px;
+    font-size: 20px;
+    margin: 5px;
+}
+
+#button{
+    float: right;
+    width: 35%;
+    height: 50px;
+    font-size: 20px;
+    margin: 5px;
+}
+
+.lower-container{
+    height: 300px;
+    border: 1px solid black;
+    padding: 1px;
+    margin: 1px;
+}
+
+.menu{
+    height: 60px;
+    border: 1px solid black;
+    padding: 1px;
+    margin: 1px;
+}
+
+.info{
+    float: left;
+    border: 1px solid black;
+    margin: 5px;
+    height: 50px;
+    width: 20%;
+}
+
+.search-filter{
+    float: right;
+    border: 1px solid black;
+    margin: 5px;
+    height: 25px;
+    width: 20%;
+}
+
+.upload-log{
+    float: right;
+    border: 1px solid black;
+    margin: 5px;
+    height: 25px;
+    width: 26%;
+}
+
+.content{
+    height: 230px;
+    border: 1px solid black;
+    padding: 1px;
+    margin: 1px;
+}
+
+.list-logs{
+    overflow: scroll;
+    float:left;
+    height: 220px;
+    width: 60%;
+    border: 1px solid black;
+    padding: 1px;
+    margin: 1px;
+}
+
+.description{
+    overflow: scroll;
+    float: right;
+    height: 220px;
+    width: 39%;
+    border: 1px solid black;
+    padding: 1px;
+    margin: 1px;
+}
